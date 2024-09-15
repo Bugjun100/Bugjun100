@@ -1,4 +1,150 @@
 #EXTM3U
+#EXTINF:-1, US031:ESPN-2
+http://vo01.mohdtv.com:8880/voby1855/73186919/3137
+#EXTINF:-1, US032:ESPN-HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/3136
+#EXTINF:-1, US033:ESPN-News
+http://vo01.mohdtv.com:8880/voby1855/73186919/3135
+#EXTINF:-1, US034:ESPN-U
+http://vo01.mohdtv.com:8880/voby1855/73186919/3134
+#EXTINF:-1, US057:MSNBC HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/3111
+#EXTINF:-1, US079:USA Network HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/3089
+#EXTINF:-1, US084:UFC Network
+http://vo01.mohdtv.com:8880/voby1855/73186919/3084
+#EXTINF:-1, US085:WWE-Network
+http://vo01.mohdtv.com:8880/voby1855/73186919/3083
+#EXTINF:-1, US088:CBS Sports Network
+http://vo01.mohdtv.com:8880/voby1855/73186919/3080
+#EXTINF:-1, US090:Fox Sports Yes
+http://vo01.mohdtv.com:8880/voby1855/73186919/3078
+#EXTINF:-1, US091:SEC Network HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/3077
+#EXTINF:-1, US092:Big Ten Network
+http://vo01.mohdtv.com:8880/voby1855/73186919/3076
+#EXTINF:-1, US095:PBS Kids HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/3073
+#EXTINF:-1, US934:UFC FIGHT PASS
+http://vo01.mohdtv.com:8880/voby1855/73186919/31050
+#EXTINF:-1, US179:CBS CHARLOTTE
+http://vo01.mohdtv.com:8880/voby1855/73186919/30011
+#EXTINF:-1, US502:NBC (WCNC) Charlotte
+http://vo01.mohdtv.com:8880/voby1855/73186919/29688
+#EXTINF:-1, US556:NBC 36 (WCNC) CHARLOTTE
+http://vo01.mohdtv.com:8880/voby1855/73186919/29634
+#EXTINF:-1, US734:ABC Charlotte
+http://vo01.mohdtv.com:8880/voby1855/73186919/29456
+#EXTINF:-1, US895:ESPN +
+http://vo01.mohdtv.com:8880/voby1855/73186919/60006
+#EXTINF:-1, US064:NFL-Network
+http://vo01.mohdtv.com:8880/voby1855/73186919/3104
+#EXTINF:-1, US089:NFL RedZone
+http://vo01.mohdtv.com:8880/voby1855/73186919/3079
+#EXTINF:-1, US618:NFL-Browns SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29572
+#EXTINF:-1, US619:NFL-Buccaneers FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29571
+#EXTINF:-1, US620:NFL-Buccaneers HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29570
+#EXTINF:-1, US621:NFL-Buccaneers SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29569
+#EXTINF:-1, US622:NFL-Cardinals FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29568
+#EXTINF:-1, US623:NFL-Cardinals HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29567
+#EXTINF:-1, US624:NFL-Cardinals SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29566
+#EXTINF:-1, US625:NFL-Chargers FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29565
+#EXTINF:-1, US626:NFL-Chargers HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29564
+#EXTINF:-1, US627:NFL-Chargers SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29563
+#EXTINF:-1, US628:NFL-Chiefs FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29562
+#EXTINF:-1, US629:NFL-Chiefs HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29561
+#EXTINF:-1, US645:NFL-Chiefs SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29545
+#EXTINF:-1, US646:NFL-49ers FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29544
+#EXTINF:-1, US647:NFL-49ers HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29543
+#EXTINF:-1, US648:NFL-49ers SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29542
+#EXTINF:-1, US649:NFL-Bears FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29541
+#EXTINF:-1, US650:NFL-Bears HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29540
+#EXTINF:-1, US651:NFL-Bears SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29539
+#EXTINF:-1, US652:NFL-Bengals FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29538
+#EXTINF:-1, US653:NFL-Bengals HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29537
+#EXTINF:-1, US654:NFL-Bengals SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29536
+#EXTINF:-1, US655:NFL-Bills FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29535
+#EXTINF:-1, US656:NFL-Bills HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29534
+#EXTINF:-1, US657:NFL-Bills SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29533
+#EXTINF:-1, US658:NFL-Broncos FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29532
+#EXTINF:-1, US659:NFL-Broncos HD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29531
+#EXTINF:-1, US660:NFL-Broncos SD
+http://vo01.mohdtv.com:8880/voby1855/73186919/53491
+#EXTINF:-1, US661:NFL-Browns FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/29529
+#EXTINF:-1, US935:NFL-Eagles FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/31566
+#EXTINF:-1, US936:NFL-Vikings FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68752
+#EXTINF:-1, US937:NFL-Colts FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68753
+#EXTINF:-1, US938:NFL-Cowboys FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68754
+#EXTINF:-1, US939:NFL-Dolphins FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68755
+#EXTINF:-1, US940:NFL-Eagles FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68756
+#EXTINF:-1, US941:NFL-Falcons FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68757
+#EXTINF:-1, US942:NFL-Giants FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68758
+#EXTINF:-1, US943:NFL-Jaguars FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68759
+#EXTINF:-1, US944:NFL-Jets FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68760
+#EXTINF:-1, US945:NFL-Lions FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68761
+#EXTINF:-1, US946:NFL-Packers FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68762
+#EXTINF:-1, US947:NFL-Panthers FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68763
+#EXTINF:-1, US948:NFL-Patriots FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68764
+#EXTINF:-1, US949:NFL-Raiders FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68765
+#EXTINF:-1, US950:NFL-Rams FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68766
+#EXTINF:-1, US951:NFL-Ravens FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68767
+#EXTINF:-1, US952:NFL-Redskins
+http://vo01.mohdtv.com:8880/voby1855/73186919/68768
+#EXTINF:-1, US953:NFL-Saints FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68769
+#EXTINF:-1, US954:NFL-Seahawks FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68770
+#EXTINF:-1, US955:NFL-Steelers FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/68771
+#EXTINF:-1, US956:NFL-Texans FHD
+http://vo01.mohdtv.com:8880/voby1855/73186919/60979
+#EXTINF:-1, US957:NFL-Titans
+http://vo01.mohdtv.com:8880/voby1855/73186919/60980
 #EXTINF:-1, US001:A&E HD
 http://vo01.mohdtv.com:8880/voby1855/73186919/3167
 #EXTINF:-1, US002:ABC HD
